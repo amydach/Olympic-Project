@@ -6,7 +6,7 @@
 
 ## Project Description:
 
-This project aims to create an app that can helps us understand how have the Olympics Changed Over Time .
+This project aims to create an app that can helps us understand how the Olympics have changed over time .
 
 Our app can be access at: https://olympic-medalists.herokuapp.com/
 
