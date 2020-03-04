@@ -55,7 +55,7 @@ const countryMarkers = countries.map(country => {
         if(country.long == null || country.lat == null){
             location=[25,-50]
         }
-    // Conditionals for countries points
+    // Add conditionals for countries points.
     let color = "";
     if (country.gold > country.silver &&country.gold > country.bronze) {
         color = "gold";
