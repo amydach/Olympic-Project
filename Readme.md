@@ -20,7 +20,7 @@ We chose this dataset because the dataset looked clean and could provide many un
 
 ## Features:
 
-Our finished project helps people explore the Olympic data. 
+Our finished project allows people to explore the Olympic data. 
 
 ## Dependencies:
 
