@@ -11,6 +11,7 @@ This project aims to create an app that can helps us understand how the Olympics
 Our app can be access at: https://olympic-medalists.herokuapp.com/
 
 ## Data Source:
+
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results 
 
 ## Description:
