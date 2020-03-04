@@ -4,7 +4,7 @@
 
 ![alt text](https://stillmed.olympic.org/media/Images/OlympicOrg/IOC/The_Organisation/The-Olympic-Rings/Olympic_rings_TM_c_IOC_All_rights_reserved_1.jpg?interpolation=lanczos-none&resize=1400:*)
 
-## Project Description
+## Project Description:
 
 This project aims to create an app that can helps us understand how have the Olympics Changed Over Time .
 
