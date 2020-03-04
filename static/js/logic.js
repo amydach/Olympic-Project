@@ -42,7 +42,7 @@ var goldMedalIcon = new LeafIcon({iconUrl: 'https://github.com/Kev-clark/Project
 async function getData(sample){
 //Clear Current map HTML to reset:
 
-  // @TODO: Use `d3.json` to fetch the sample data for the plots
+  // Use `d3.json` to fetch the sample data for the plots
   const data= await d3.json('/medals/'+sample).then(data=>buildMap(data))
 }
 
