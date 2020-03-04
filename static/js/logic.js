@@ -5,7 +5,7 @@ function init() {
     // Grab a reference to the dropdown and select element.
     var selector = d3.select("#selDataset");
   
-    // Use the list of sample names to populate the select options
+    // Use the list of sample names to populate the select options.
     d3.json("/games").then((sampleNames) => {
       sampleNames.forEach((sample) => {
         selector
