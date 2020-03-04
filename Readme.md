@@ -39,7 +39,7 @@ Our finished project allows people to explore the Olympic data.
 ## Usage:
 
 1. Open site 
-2. Click on buttons to explore, Tableau visualization to analyze olympian biometrics.  
+2. Click on buttons to explore Tableau visualization to analyze Olympian biometrics.  
 3. Explore the plotly map to analyze medals by country.
 4. Users can interactively explore biometrics through various filters and drop downs based on key data dimensions including sport, season, decade, and gender.
 
