@@ -1,6 +1,6 @@
 # OLYMPIC DATA ANALYSIS 
 
-## Team Members: Kevin Clark, Rebekah Rowland, Amy Dach, Poonam Goel
+## Team Members: Kevin Clark, Rebekah Rowland, Amy Dach and Poonam Goel
 
 ![alt text](https://stillmed.olympic.org/media/Images/OlympicOrg/IOC/The_Organisation/The-Olympic-Rings/Olympic_rings_TM_c_IOC_All_rights_reserved_1.jpg?interpolation=lanczos-none&resize=1400:*)
 
