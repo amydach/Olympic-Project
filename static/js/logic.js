@@ -49,7 +49,7 @@ async function getData(sample){
 function buildMap(countries){
     
     // Create a map object.
-// Loop through the cities array and create one marker for each city object
+// Loop through the cities array and create one marker for each city object.
 const countryMarkers = countries.map(country => {
     var location=[country.lat, country.long];
         if(country.long == null || country.lat == null){
